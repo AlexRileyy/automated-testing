@@ -15,7 +15,7 @@ function findShortestString(stringArr) {
     }
   }
   ``;
-  return shortestString.length;
+  return shortestString;
 }
 
 module.exports = findShortestString;
